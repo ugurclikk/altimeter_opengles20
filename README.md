@@ -50,9 +50,9 @@ Execute the compiled binary to launch the altimeter application:
 $ ./main
 
 Screenshots / Video
-![WhatsApp Image 2023-08-18 at 16 53 26](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/a1686cad-3100-4c34-865a-84773089f18c)
 
 [Screencast from 27-08-2023 09_39_37.webm](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/736e73eb-c584-4270-9b42-f58bb3e6c4ea)
+![WhatsApp Image 2023-08-18 at 16 53 26](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/a1686cad-3100-4c34-865a-84773089f18c)
 
 Usage and Contributions
 Feel free to use this project as a starting point for your own OpenGL ES 2.0 applications or contribute improvements and features. Pull requests are welcome!
