@@ -7,6 +7,12 @@ An altimeter application built using OpenGL ES 2.0, demonstrating altitude visua
 
 The OpenGL ES 2.0 Altimeter project showcases an altimeter application that utilizes OpenGL ES 2.0 for rendering altitude data in a visually appealing and interactive manner. The application features a circular background with altitude indicators and interactive arrow indicators for different altitude levels.
 
+## Screenshots / Video
+
+![Screencast from 27-08-2023 09_39_37.webm](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/736e73eb-c584-4270-9b42-f58bb3e6c4ea)
+
+![WhatsApp Image 2023-08-18 at 16 53 26](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/a1686cad-3100-4c34-865a-84773089f18c)
+
 ## Technologies Used
 
 - OpenGL ES 2.0
@@ -21,7 +27,7 @@ The OpenGL ES 2.0 Altimeter project showcases an altimeter application that util
 - **Dynamic Movement**: The circular background can be rotated interactively, enhancing the user experience.
 - **Modular Design**: The codebase is organized into functions for drawing the circular backgrounds, altitude indicators, and managing user input.
 
-## Code Explanation
+
 
 ### Shaders
 
@@ -36,6 +42,9 @@ The application uses vertex and fragment shaders to process and render graphical
 - `init`: Initializes GLFW and sets up the application window.
 - `main`: The main loop that manages rendering, user input, and interaction.
 
+
+Usage and Contributions
+Feel free to use this project as a starting point for your own OpenGL ES 2.0 applications or contribute improvements and features. Pull requests are welcome!
 ## How to Run
 
 1. **Install Dependencies**:
@@ -44,15 +53,10 @@ The application uses vertex and fragment shaders to process and render graphical
 2. **Compile the Code**:
    Run the following command in the terminal to compile the code:
    ```bash
-   g++ -o main altimeter.cpp -lglfw -lGLESv2 -lEGL 
+   g++ -o main altimeter.cpp -lglfw -lGLESv2 -lEGL
+   
 3- **Run the Application**:
-Execute the compiled binary to launch the altimeter application:
-$ ./main
+    Execute the compiled binary to launch the altimeter application:
+   ```bash
+   ./main
 
-Screenshots / Video
-
-[Screencast from 27-08-2023 09_39_37.webm](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/736e73eb-c584-4270-9b42-f58bb3e6c4ea)
-![WhatsApp Image 2023-08-18 at 16 53 26](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/a1686cad-3100-4c34-865a-84773089f18c)
-
-Usage and Contributions
-Feel free to use this project as a starting point for your own OpenGL ES 2.0 applications or contribute improvements and features. Pull requests are welcome!
