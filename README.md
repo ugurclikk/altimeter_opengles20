@@ -7,11 +7,14 @@ An altimeter application built using OpenGL ES 2.0, demonstrating altitude visua
 
 The OpenGL ES 2.0 Altimeter project showcases an altimeter application that utilizes OpenGL ES 2.0 for rendering altitude data in a visually appealing and interactive manner. The application features a circular background with altitude indicators and interactive arrow indicators for different altitude levels.
 
-## Screenshots / Video
-
-![Screencast from 27-08-2023 09_39_37.webm](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/736e73eb-c584-4270-9b42-f58bb3e6c4ea)
-
+## Screenshots 
 ![WhatsApp Image 2023-08-18 at 16 53 26](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/a1686cad-3100-4c34-865a-84773089f18c)
+
+## VIDEO
+
+[Screencast from 27-08-2023 09_39_37.webm](https://github.com/ugurclikk/altimeter_opengles20/assets/75498822/715949a6-4004-4804-96e5-33000792143e)
+
+
 
 ## Technologies Used
 
